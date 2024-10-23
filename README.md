@@ -1,4 +1,4 @@
-# Open Data Governance and India's Federated Model: A Review
+# An Evaluation and Critique of India’s Open Government Data
 
 ## Abstract
 Open data refers to information that is freely accessible for reuse and redistribution, fostering **transparency**, **innovation**, **accountability**, and **economic growth**. India, with its pioneering open data policies, serves as a significant example in this field. This paper evaluates India's **data governance practices** through the **DAMA-DMBOK framework**, focusing on the **open data portal** and **data quality metrics**.
